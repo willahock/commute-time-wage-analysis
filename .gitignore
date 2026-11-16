@@ -1,0 +1,11 @@
+# Raw IPUMS data (not redistributable)
+Data/
+*.dta
+
+# Stata logs and temp files
+*.log
+*.smcl
+*.gph
+
+# OS files
+.DS_Store
